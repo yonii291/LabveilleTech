@@ -2,20 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/pages/apropos/</loc>
+    <loc>http://localhost:1313/LabveilleTech/post/shockvertising/</loc>
+    <lastmod>2024-12-05T16:00:19+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pages/contact/</loc>
+    <loc>http://localhost:1313/LabveilleTech/post/marqueemployeur/</loc>
+    <lastmod>2024-12-05T16:00:19+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/article1/</loc>
+    <loc>http://localhost:1313/LabveilleTech/post/monsysveille/</loc>
+    <lastmod>2024-12-05T16:00:19+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/LabveilleTech/post/neuromarketing1/</loc>
+    <lastmod>2024-12-05T16:00:19+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pages/</loc>
+    <loc>http://localhost:1313/LabveilleTech/post/</loc>
+    <lastmod>2024-12-05T16:00:19+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>http://localhost:1313/LabveilleTech/</loc>
+    <lastmod>2024-12-05T16:00:19+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/LabveilleTech/post/sociallistening/</loc>
+    <lastmod>2024-11-14T16:00:19+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/LabveilleTech/pages/apropos/</loc>
+  </url><url>
+    <loc>http://localhost:1313/LabveilleTech/pages/contact/</loc>
+  </url><url>
+    <loc>http://localhost:1313/LabveilleTech/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/LabveilleTech/pages/</loc>
+  </url><url>
+    <loc>http://localhost:1313/LabveilleTech/tags/</loc>
   </url>
 </urlset>

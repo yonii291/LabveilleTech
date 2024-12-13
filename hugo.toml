@@ -28,7 +28,7 @@ theme = "tophat"
   [[menu.main]]
     identifier = "contact"
     name = "Contact"
-    url = "pages/contact/"    
+    url = "pages/contact/"
   
 
 
