@@ -23,12 +23,12 @@ theme = "tophat"
   [[menu.main]]
     identifier = "apropos"
     name = "A propos"
-    url = "pages/apropos/"
+    url = "/pages/apropos/"
 
   [[menu.main]]
     identifier = "contact"
     name = "Contact"
-    url = "pages/contact/"
+    url = "/pages/contact/"
   
 
 

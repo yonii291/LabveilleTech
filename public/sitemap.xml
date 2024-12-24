@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/LabveilleTech/post/monsysveille/</loc>
+    <lastmod>2024-12-24T16:00:19+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/LabveilleTech/post/</loc>
+    <lastmod>2024-12-24T16:00:19+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/LabveilleTech/</loc>
+    <lastmod>2024-12-24T16:00:19+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/LabveilleTech/post/shockvertising/</loc>
     <lastmod>2024-12-05T16:00:19+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/LabveilleTech/post/marqueemployeur/</loc>
     <lastmod>2024-12-05T16:00:19+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/LabveilleTech/post/monsysveille/</loc>
-    <lastmod>2024-12-05T16:00:19+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/LabveilleTech/post/neuromarketing1/</loc>
-    <lastmod>2024-12-05T16:00:19+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/LabveilleTech/post/</loc>
-    <lastmod>2024-12-05T16:00:19+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/LabveilleTech/</loc>
     <lastmod>2024-12-05T16:00:19+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/LabveilleTech/post/sociallistening/</loc>
